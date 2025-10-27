@@ -148,10 +148,9 @@ To cite this repository in publications:
 
 ```bibtex
 @misc{CSVision,
-  author = {SHASWATSINGH3101},
+  author = {MUSKANRAJ},
   title = {DevEcho},
   year = {2025},
-  howpublished = {\url{https://github.com/SHASWATSINGH3101/DevEcho}},
   note = {GitHub repository},
 }
 ```
@@ -160,6 +159,7 @@ To cite this repository in publications:
 
 ## Contact
 For inquiries or support, connect via:
-- 💬 **Discord:** shaswat_singh
+- 💬 **LinkedIn** : Muskan Raj
 
 ---
+
