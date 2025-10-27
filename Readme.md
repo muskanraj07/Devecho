@@ -17,7 +17,7 @@
 
 ## 📂 Project Structure
 ```bash
-shaswatsingh3101-devecho/
+muskanraj07-devecho/
 ├── deployment/
 │   ├── knowledge_base.py        # Handles data collection from URLs, GitHub, and topics
 │   ├── knowledge_retrieve.py    # Implements RAG pipeline and AI agent coordination for content retrieval
@@ -156,6 +156,7 @@ For inquiries or support, connect via:
 - 💬 **LinkedIn** : Muskan Raj
 
 ---
+
 
 
 
