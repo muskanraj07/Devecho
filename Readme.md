@@ -55,7 +55,7 @@ shaswatsingh3101-devecho/
 ## 🔧 Installation
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/SHASWATSINGH3101/devecho.git
+git clone https://github.com/muskanraj07/Muskan
 cd devecho
 ```
 
@@ -162,4 +162,5 @@ For inquiries or support, connect via:
 - 💬 **LinkedIn** : Muskan Raj
 
 ---
+
 
